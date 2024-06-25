@@ -20,11 +20,4 @@ jobs:
       - name: Publish
         run: |
           gem push github-pages.gem --key ${{ secrets.PAGES_GEM_PUBLISH }}
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-      - name: Run python 
-        run: |
-          cd test
-          python3 startwatchdog.py --env=prod --split=static
+      
