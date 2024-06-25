@@ -1,0 +1,688 @@
+{
+    "urls": [{
+            "url": "/",
+            "elements": [{
+                    "element_id": "element1",
+                    "expected_text": "Text1"
+                },
+                {
+                    "element_id": "element2",
+                    "expected_text": "Text2"
+                }
+            ]
+        },
+        {
+            "url": "/features",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/about",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/whybeagle",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/pricing",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/devsecops-tools",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/free-website-security-testing",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/owasp-security-testing",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/contact",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/careers",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/press",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/terms",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/developer",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/privacy",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/howitworks",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/developer/apidoc",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/developer/integrationdoc",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/wordpress-security-testing",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/developer/devsecopsdoc",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/developer/certificatedoc",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/whitepaper",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/intruder-alternative",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/tinfoil-security-alternative",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/probely-alternative",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/crashtest-security-alternative",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/solutions/healthcare",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/solutions/saas",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/solutions/fintech",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/solutions/education",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/solutions/e-commerce",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/use-cases/developers",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/use-cases/security-engineers",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/cosmog",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/whitepapers/thank-you-securing-cloud-applications",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/resources/guides/thank-you-manual-vs-automated",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/partner-program",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/thank-you-strategic-partner-application",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/domain-expiry-checker",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/ssl-certificate-checker",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/free-test",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/campaign-lp/api-security",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/campaign-lp/thank-you",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        },
+        {
+            "url": "/campaign-lp/wordpress-security",
+            "elements": [{
+                    "element_id": "post-img",
+                    "expected_text": "Single blog banner image"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                },
+                {
+                    "element_id": "toc-head",
+                    "expected_text": "Table of contents"
+                }
+            ]
+        }
+
+    ]
+}
