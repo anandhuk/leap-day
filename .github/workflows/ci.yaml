@@ -23,4 +23,5 @@ jobs:
       - name: Run python 
         run: |
           cd test
+          pip install -r requirements.txt
           python3 startwatchdog.py --env=prod --split=static
